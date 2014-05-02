@@ -1,0 +1,22 @@
+body{
+	font-family: "Arial", sans-serif;
+}
+
+.dropzone{
+	border: 2px dashed #ccc;
+	color: #ccc;
+	/*height: 300px;*/
+	line-height: 300px;
+	text-align: center;
+	/*width: 300px;*/
+}
+
+.dragover{
+	border-color:  #000;
+	color: #000;
+}
+div#progress{
+	background: #000;
+	height: 10px;
+	width: 0;
+}
